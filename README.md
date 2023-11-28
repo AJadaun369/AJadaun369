@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @AJadaun369
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 
+  Hi, I’m Atul Jadaun
+ 👀 
+ 🌱 
+ 💞️
+ 📫
 
 <!---
 AJadaun369/AJadaun369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
